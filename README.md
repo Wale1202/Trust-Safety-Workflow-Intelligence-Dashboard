@@ -315,19 +315,3 @@ tackle them:
    over- or under-prioritised.
 10. **Reviewer wellbeing safeguards** before anything resembling real content
     is ever involved.
-
-## 15. CV bullet points
-
-- Built a multipage **Trust & Safety operations dashboard** (Python,
-  Streamlit, SQLite, Pandas, Plotly) simulating moderation triage with a
-  filterable queue and 8 workflow KPIs.
-- Designed a **transparent, explainable risk-scoring model** (0–100, five
-  rules) that outputs a per-rule reasoning trail for auditability.
-- Implemented an **AI ticket-summary feature** with an optional LLM path and a
-  deterministic local fallback, so the system works with zero configuration.
-- Built a **BRD/MRD generator** converting unstructured stakeholder notes into
-  a structured product document with Markdown export.
-- Wrote a **pytest suite (25 tests)** covering scoring, KPIs, document
-  structure, and the AI fallback, plus product-thinking documentation.
-
----
