@@ -1,0 +1,12 @@
+# Core app
+streamlit>=1.36
+pandas>=2.0
+plotly>=5.20
+python-dotenv>=1.0
+
+# Optional: only needed if you enable the LLM path with an API key.
+# The app runs fully without this installed (local rule-based fallback).
+openai>=1.30
+
+# Testing
+pytest>=8.0
