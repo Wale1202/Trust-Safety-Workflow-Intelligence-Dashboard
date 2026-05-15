@@ -287,18 +287,7 @@ These aren't apologies — they're deliberate boundaries for a project whose
 point is the *reasoning and design*, not production hardening. The roadmap
 below is how I'd close them.
 
-## 14. Screenshots
-
-> _Add screenshots after running locally (suggested folder: `docs/`)._
-
-| Page | Screenshot |
-|---|---|
-| Home / Snapshot | `docs/screenshot_home.png` _(placeholder)_ |
-| Ticket Dashboard | `docs/screenshot_dashboard.png` _(placeholder)_ |
-| AI Ticket Review | `docs/screenshot_ai_review.png` _(placeholder)_ |
-| BRD/MRD Generator | `docs/screenshot_brd.png` _(placeholder)_ |
-
-## 15. Future improvements
+## 14. Future improvements
 
 Each item below maps directly to a limitation above. Roughly in the order I'd
 tackle them:
@@ -327,7 +316,7 @@ tackle them:
 10. **Reviewer wellbeing safeguards** before anything resembling real content
     is ever involved.
 
-## 16. CV bullet points
+## 15. CV bullet points
 
 - Built a multipage **Trust & Safety operations dashboard** (Python,
   Streamlit, SQLite, Pandas, Plotly) simulating moderation triage with a
@@ -341,23 +330,4 @@ tackle them:
 - Wrote a **pytest suite (25 tests)** covering scoring, KPIs, document
   structure, and the AI fallback, plus product-thinking documentation.
 
-## 17. Interview talking points
-
-- **Explainability over a black box.** The headline decision: a rule-based
-  score with a full reasoning trail, because in Trust & Safety auditability
-  matters more than marginal accuracy. I can walk through any score.
-- **AI as support, not decision-maker.** The LLM only improves wording; the
-  recommendation stays rule-based. This is enforced in code, not just stated.
-- **Graceful degradation.** A deliberate offline fallback means the project
-  never depends on an API key to run or be evaluated.
-- **Separation of concerns.** Data access, scoring, KPI maths, and UI are
-  isolated — which is why the logic is unit-tested and the database could be
-  swapped without a rewrite.
-- **Honest scoping.** I can clearly state the assumptions, trade-offs, and
-  limitations (see `DESIGN_DECISIONS.md`) rather than overclaiming — including
-  a test that pins a known heuristic limitation instead of gold-plating it.
-
 ---
-
-*Educational and portfolio use only. Synthetic data — not for production
-moderation.*
