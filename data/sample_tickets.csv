@@ -1,0 +1,221 @@
+ticket_id,content_type,category,priority,status,assigned_team,created_date,resolved_date,resolution_time_hours,region,short_description
+TS-1001,Text Post,Spam,Medium,Resolved,Tier 1 Moderation,2026-04-30 01:57,2026-04-30 21:09,19.2,Europe,Account posting the same promotional link many times.
+TS-1002,Image,Bullying / Harassment,Low,Open,Tier 1 Moderation,2026-05-01 23:33,,,North America,User says a group is targeting them with mean replies.
+TS-1003,Text Post,Hate Speech,High,Escalated,Safety Escalations,2026-05-13 16:21,,,Africa,Comment flagged for a borderline term; needs context review.
+TS-1004,Live Stream,Bullying / Harassment,Medium,Resolved,Policy Review,2026-05-02 09:09,2026-05-04 14:21,53.2,North America,Reported comment contains mocking language directed at a user.
+TS-1005,Live Stream,Spam,Medium,Open,Policy Review,2026-01-20 16:21,,,MENA,Account posting the same promotional link many times.
+TS-1006,Text Post,Spam,Medium,In Review,Tier 1 Moderation,2026-05-07 13:57,,,APAC,User reports repetitive advertising messages in their inbox.
+TS-1007,Direct Message,Spam,Medium,Resolved,Policy Review,2026-04-26 09:09,2026-04-27 05:39,20.5,Europe,Profile flagged for suspected bot-like posting behaviour.
+TS-1008,Text Post,Bullying / Harassment,Medium,Open,Tier 2 Specialist,2026-03-15 06:45,,,APAC,User reports repeated unwanted negative comments from another account.
+TS-1009,Direct Message,Spam,Low,Resolved,Tier 2 Specialist,2026-05-01 06:45,2026-05-04 10:03,75.3,North America,Account mass-tagging users in unrelated promotional posts.
+TS-1010,Text Post,Misinformation,Medium,Open,Policy Review,2026-03-26 13:57,,,APAC,User flags a post for spreading a misleading statistic.
+TS-1011,Video,Misinformation,Medium,Resolved,Tier 1 Moderation,2026-05-02 11:33,2026-05-04 06:03,42.5,LATAM,Reporter questions an out-of-context quote in a viral post.
+TS-1012,Live Stream,Misinformation,Medium,Escalated,Legal & Compliance,2026-03-29 04:21,,,MENA,Reported content links to a low-credibility source.
+TS-1013,Live Stream,Misinformation,Medium,Resolved,Policy Review,2026-04-20 21:09,2026-04-22 22:03,48.9,North America,Reported content links to a low-credibility source.
+TS-1014,Direct Message,Hate Speech,Medium,In Review,Tier 2 Specialist,2026-05-04 06:45,,,Europe,Reported phrase appears to demean a community; needs policy check.
+TS-1015,Comment,Misinformation,Medium,Open,Tier 1 Moderation,2026-05-15 04:21,,,North America,Post shares an unverified claim about a public event.
+TS-1016,Text Post,Spam,High,Resolved,Tier 2 Specialist,2026-04-12 23:33,2026-04-13 10:03,10.5,North America,Profile flagged for suspected bot-like posting behaviour.
+TS-1017,Text Post,Bullying / Harassment,Medium,Resolved,Tier 2 Specialist,2026-05-05 18:45,2026-05-07 15:09,44.4,Europe,Account flagged for sending repetitive teasing messages.
+TS-1018,Text Post,Spam,Low,Resolved,Policy Review,2026-04-16 23:33,2026-04-21 06:45,103.2,North America,Account posting the same promotional link many times.
+TS-1019,Live Stream,Bullying / Harassment,Low,Open,Tier 1 Moderation,2025-11-24 06:45,,,MENA,Reported comment contains mocking language directed at a user.
+TS-1020,Live Stream,Self-Harm,High,Escalated,Safety Escalations,2026-01-12 18:45,,,Europe,Post flagged for language suggesting the user is struggling emotionally.
+TS-1021,Text Post,Bullying / Harassment,Low,In Review,Tier 1 Moderation,2026-04-21 06:45,,,North America,Reporter asks for help with persistent unkind direct messages.
+TS-1022,Text Post,Bullying / Harassment,High,Escalated,Safety Escalations,2026-04-11 21:09,,,LATAM,User says a group is targeting them with mean replies.
+TS-1023,Image,Spam,Low,Resolved,Tier 2 Specialist,2026-05-01 11:33,2026-05-04 00:57,61.4,Europe,Automated filter flagged bulk identical comments.
+TS-1024,Live Stream,Misinformation,High,Escalated,Safety Escalations,2026-03-25 04:21,,,North America,Post shares an unverified claim about a public event.
+TS-1025,Comment,Misinformation,High,Resolved,Policy Review,2025-12-17 16:21,2025-12-18 00:15,7.9,North America,User flags a post for spreading a misleading statistic.
+TS-1026,Text Post,Misinformation,Low,Resolved,Tier 2 Specialist,2026-04-26 21:09,2026-04-29 10:51,61.7,MENA,Reported content links to a low-credibility source.
+TS-1027,Direct Message,Spam,Medium,Resolved,Tier 2 Specialist,2026-04-26 11:33,2026-04-27 23:33,36.0,LATAM,User reports repetitive advertising messages in their inbox.
+TS-1028,Comment,Spam,Low,Escalated,Safety Escalations,2026-04-01 11:33,,,APAC,Automated filter flagged bulk identical comments.
+TS-1029,Text Post,Spam,Medium,Resolved,Tier 1 Moderation,2026-04-26 16:21,2026-04-28 10:21,42.0,North America,Account posting the same promotional link many times.
+TS-1030,Image,Hate Speech,Medium,Open,Tier 2 Specialist,2025-12-12 21:09,,,MENA,Reported phrase appears to demean a community; needs policy check.
+TS-1031,Video,Bullying / Harassment,High,Open,Tier 1 Moderation,2025-12-07 09:09,,,Europe,User says a group is targeting them with mean replies.
+TS-1032,Direct Message,Hate Speech,Low,Escalated,Safety Escalations,2026-04-28 21:09,,,Europe,Content flagged for review under hate speech policy keywords.
+TS-1033,Image,Hate Speech,High,Escalated,Safety Escalations,2026-01-25 18:45,,,APAC,Post flagged by automated filter for potentially exclusionary language.
+TS-1034,Comment,Bullying / Harassment,Medium,Resolved,Policy Review,2026-05-02 21:09,2026-05-03 20:15,23.1,APAC,User says a group is targeting them with mean replies.
+TS-1035,Live Stream,Bullying / Harassment,Medium,Open,Tier 2 Specialist,2026-03-15 11:33,,,LATAM,User reports repeated unwanted negative comments from another account.
+TS-1036,Comment,Spam,Low,In Review,Tier 1 Moderation,2026-05-07 01:57,,,Europe,Account mass-tagging users in unrelated promotional posts.
+TS-1037,Comment,Animal Harm,Medium,In Review,Policy Review,2026-05-11 04:21,,,MENA,Comment jokes about mistreating a pet; needs context review.
+TS-1038,Live Stream,Spam,Medium,Open,Tier 2 Specialist,2026-04-09 06:45,,,APAC,User reports repetitive advertising messages in their inbox.
+TS-1039,Text Post,Spam,Low,Open,Tier 2 Specialist,2025-12-27 09:09,,,North America,Profile flagged for suspected bot-like posting behaviour.
+TS-1040,Text Post,Self-Harm,High,Open,Tier 2 Specialist,2025-12-01 06:45,,,APAC,Automated system flagged a post for a wellbeing check-in.
+TS-1041,Comment,Bullying / Harassment,High,In Review,Policy Review,2026-04-28 18:45,,,MENA,Reporter asks for help with persistent unkind direct messages.
+TS-1042,Direct Message,Self-Harm,High,Resolved,Tier 2 Specialist,2026-04-27 11:33,2026-04-27 16:15,4.7,Europe,Reporter is worried about a friend's recent low mood posts.
+TS-1043,Comment,Animal Harm,High,Resolved,Tier 2 Specialist,2026-04-11 21:09,2026-04-12 01:27,4.3,Europe,User flags an image as potentially distressing animal content.
+TS-1044,Text Post,Spam,Low,In Review,Policy Review,2026-04-02 01:57,,,Europe,Profile flagged for suspected bot-like posting behaviour.
+TS-1045,Live Stream,Child Safety,High,In Review,Tier 2 Specialist,2026-04-26 21:09,,,Europe,User reports a suspicious friend request pattern toward younger users.
+TS-1046,Comment,Bullying / Harassment,Low,Resolved,Policy Review,2026-05-01 06:45,2026-05-03 11:03,52.3,North America,Reporter asks for help with persistent unkind direct messages.
+TS-1047,Comment,Bullying / Harassment,High,Escalated,Legal & Compliance,2026-05-02 01:57,,,LATAM,Account flagged for sending repetitive teasing messages.
+TS-1048,Direct Message,Hate Speech,High,Resolved,Tier 2 Specialist,2026-01-16 06:45,2026-01-16 17:39,10.9,Europe,Content flagged for review under hate speech policy keywords.
+TS-1049,Text Post,Hate Speech,High,Escalated,Safety Escalations,2026-05-14 21:09,,,Africa,Post flagged by automated filter for potentially exclusionary language.
+TS-1050,Text Post,Animal Harm,Medium,In Review,Tier 1 Moderation,2026-04-15 11:33,,,APAC,Reporter asks whether a pet-care clip breaks animal guidelines.
+TS-1051,Comment,Bullying / Harassment,Low,Open,Tier 2 Specialist,2026-01-18 23:33,,,APAC,Reporter asks for help with persistent unkind direct messages.
+TS-1052,Direct Message,Spam,Low,Resolved,Tier 2 Specialist,2026-05-04 09:09,2026-05-07 15:45,78.6,LATAM,Profile flagged for suspected bot-like posting behaviour.
+TS-1053,Live Stream,Bullying / Harassment,Medium,In Review,Policy Review,2025-12-17 06:45,,,LATAM,User says a group is targeting them with mean replies.
+TS-1054,Direct Message,Child Safety,Medium,In Review,Tier 2 Specialist,2026-05-10 09:09,,,LATAM,User reports a suspicious friend request pattern toward younger users.
+TS-1055,Image,Hate Speech,Medium,Escalated,Safety Escalations,2026-04-05 09:09,,,Europe,Comment flagged for a borderline term; needs context review.
+TS-1056,Text Post,Misinformation,Medium,Open,Tier 1 Moderation,2026-03-14 16:21,,,APAC,Content flagged for a fact-check review queue.
+TS-1057,Comment,Spam,Medium,Open,Tier 2 Specialist,2026-05-04 11:33,,,LATAM,User reports repetitive advertising messages in their inbox.
+TS-1058,Text Post,Bullying / Harassment,Low,In Review,Policy Review,2026-03-14 09:09,,,North America,Reporter asks for help with persistent unkind direct messages.
+TS-1059,Text Post,Hate Speech,High,Escalated,Safety Escalations,2026-05-11 18:45,,,North America,User reports a comment that may target a protected group.
+TS-1060,Video,Spam,Low,In Review,Tier 1 Moderation,2026-05-09 13:57,,,North America,Account posting the same promotional link many times.
+TS-1061,Text Post,Self-Harm,Medium,Resolved,Tier 2 Specialist,2026-05-12 11:33,2026-05-13 05:27,17.9,LATAM,Automated system flagged a post for a wellbeing check-in.
+TS-1062,Direct Message,Spam,Medium,Resolved,Policy Review,2026-03-31 06:45,2026-04-01 22:51,40.1,North America,Account posting the same promotional link many times.
+TS-1063,Video,Spam,Low,Resolved,Tier 1 Moderation,2026-05-11 04:21,2026-05-15 11:15,102.9,Africa,Profile flagged for suspected bot-like posting behaviour.
+TS-1064,Image,Child Safety,High,In Review,Tier 2 Specialist,2026-04-30 18:45,,,Europe,Profile flagged for an age-appropriateness review.
+TS-1065,Live Stream,Spam,Medium,Resolved,Tier 2 Specialist,2026-03-20 13:57,2026-03-22 11:03,45.1,Europe,Account mass-tagging users in unrelated promotional posts.
+TS-1066,Image,Spam,High,Resolved,Tier 1 Moderation,2026-05-01 01:57,2026-05-01 13:51,11.9,Europe,Account mass-tagging users in unrelated promotional posts.
+TS-1067,Comment,Bullying / Harassment,High,In Review,Policy Review,2026-05-13 16:21,,,Europe,Account flagged for sending repetitive teasing messages.
+TS-1068,Video,Animal Harm,High,In Review,Tier 2 Specialist,2026-03-31 16:21,,,North America,Post flagged for a policy check on animal welfare guidelines.
+TS-1069,Comment,Self-Harm,High,Open,Tier 2 Specialist,2026-05-06 23:33,,,North America,User expresses sadness and may need supportive resources.
+TS-1070,Comment,Hate Speech,High,Resolved,Tier 2 Specialist,2026-05-04 18:45,2026-05-05 01:57,7.2,Africa,User reports a comment that may target a protected group.
+TS-1071,Image,Animal Harm,Low,In Review,Tier 1 Moderation,2026-05-14 11:33,,,Europe,Reporter asks whether a pet-care clip breaks animal guidelines.
+TS-1072,Video,Spam,Medium,In Review,Tier 1 Moderation,2026-05-06 23:33,,,Europe,Profile flagged for suspected bot-like posting behaviour.
+TS-1073,Comment,Misinformation,Medium,Resolved,Policy Review,2026-05-05 11:33,2026-05-06 02:09,14.6,APAC,Reporter questions an out-of-context quote in a viral post.
+TS-1074,Text Post,Spam,Medium,Resolved,Policy Review,2026-03-09 11:33,2026-03-10 11:51,24.3,North America,Automated filter flagged bulk identical comments.
+TS-1075,Image,Spam,Low,In Review,Tier 1 Moderation,2026-01-13 16:21,,,APAC,User reports repetitive advertising messages in their inbox.
+TS-1076,Comment,Animal Harm,High,In Review,Tier 1 Moderation,2026-04-29 23:33,,,APAC,Comment jokes about mistreating a pet; needs context review.
+TS-1077,Text Post,Misinformation,Low,Open,Policy Review,2026-05-13 11:33,,,Africa,Reported content links to a low-credibility source.
+TS-1078,Direct Message,Bullying / Harassment,Medium,Escalated,Safety Escalations,2026-04-03 01:57,,,Europe,User says a group is targeting them with mean replies.
+TS-1079,Text Post,Misinformation,Medium,Resolved,Policy Review,2026-03-05 21:09,2026-03-07 02:09,29.0,North America,Post shares an unverified claim about a public event.
+TS-1080,Video,Child Safety,Medium,Escalated,Safety Escalations,2026-04-28 21:09,,,MENA,Reported profile may belong to a minor; needs age verification.
+TS-1081,Text Post,Bullying / Harassment,Low,Resolved,Tier 2 Specialist,2026-04-11 13:57,2026-04-14 16:15,74.3,MENA,User reports repeated unwanted negative comments from another account.
+TS-1082,Comment,Misinformation,High,In Review,Tier 2 Specialist,2026-04-20 13:57,,,Europe,User flags a post for spreading a misleading statistic.
+TS-1083,Comment,Bullying / Harassment,High,In Review,Tier 2 Specialist,2026-05-03 13:57,,,Europe,User reports repeated unwanted negative comments from another account.
+TS-1084,Video,Animal Harm,High,In Review,Tier 2 Specialist,2026-05-02 21:09,,,APAC,User flags an image as potentially distressing animal content.
+TS-1085,Image,Spam,Medium,Open,Tier 2 Specialist,2026-03-19 23:33,,,APAC,Account posting the same promotional link many times.
+TS-1086,Video,Animal Harm,Medium,Escalated,Safety Escalations,2026-04-29 21:09,,,North America,Post flagged for a policy check on animal welfare guidelines.
+TS-1087,Comment,Spam,Low,Open,Tier 1 Moderation,2026-03-11 23:33,,,MENA,Profile flagged for suspected bot-like posting behaviour.
+TS-1088,Direct Message,Misinformation,Medium,Open,Policy Review,2026-02-28 01:57,,,Europe,User flags a post for spreading a misleading statistic.
+TS-1089,Comment,Bullying / Harassment,Low,In Review,Tier 2 Specialist,2026-01-01 16:21,,,North America,User says a group is targeting them with mean replies.
+TS-1090,Text Post,Bullying / Harassment,Medium,In Review,Policy Review,2026-02-17 09:09,,,North America,Reporter asks for help with persistent unkind direct messages.
+TS-1091,Video,Self-Harm,High,Resolved,Tier 2 Specialist,2026-05-13 11:33,2026-05-13 22:09,10.6,North America,Comment indicates the user is going through a hard time.
+TS-1092,Comment,Bullying / Harassment,High,Resolved,Tier 2 Specialist,2026-04-24 23:33,2026-04-25 07:21,7.8,North America,Reported comment contains mocking language directed at a user.
+TS-1093,Live Stream,Misinformation,High,Resolved,Tier 1 Moderation,2026-05-11 01:57,2026-05-11 16:03,14.1,MENA,Reporter questions an out-of-context quote in a viral post.
+TS-1094,Direct Message,Bullying / Harassment,Medium,Open,Tier 1 Moderation,2026-03-11 16:21,,,LATAM,Reported comment contains mocking language directed at a user.
+TS-1095,Direct Message,Animal Harm,Medium,Resolved,Tier 2 Specialist,2026-02-15 18:45,2026-02-17 00:45,30.0,North America,Reported video may show unsafe handling of a pet; needs review.
+TS-1096,Comment,Bullying / Harassment,Medium,Resolved,Policy Review,2026-05-06 04:21,2026-05-07 00:57,20.6,North America,User reports repeated unwanted negative comments from another account.
+TS-1097,Direct Message,Spam,High,Open,Policy Review,2026-05-02 01:57,,,APAC,Profile flagged for suspected bot-like posting behaviour.
+TS-1098,Text Post,Bullying / Harassment,Medium,In Review,Tier 2 Specialist,2026-05-09 18:45,,,LATAM,Reporter asks for help with persistent unkind direct messages.
+TS-1099,Text Post,Spam,Medium,Open,Tier 2 Specialist,2025-12-23 06:45,,,APAC,Profile flagged for suspected bot-like posting behaviour.
+TS-1100,Video,Self-Harm,High,Resolved,Tier 2 Specialist,2026-05-10 04:21,2026-05-10 11:39,7.3,Europe,User expresses sadness and may need supportive resources.
+TS-1101,Text Post,Bullying / Harassment,Medium,Open,Policy Review,2026-01-02 04:21,,,APAC,User says a group is targeting them with mean replies.
+TS-1102,Video,Misinformation,Low,Resolved,Tier 1 Moderation,2026-04-05 13:57,2026-04-12 13:03,167.1,Africa,User flags a post for spreading a misleading statistic.
+TS-1103,Comment,Spam,High,Open,Tier 1 Moderation,2026-03-11 23:33,,,APAC,Account mass-tagging users in unrelated promotional posts.
+TS-1104,Direct Message,Misinformation,Low,In Review,Tier 2 Specialist,2026-04-30 18:45,,,Europe,Post shares an unverified claim about a public event.
+TS-1105,Image,Bullying / Harassment,Low,In Review,Policy Review,2026-04-12 23:33,,,North America,Reporter asks for help with persistent unkind direct messages.
+TS-1106,Text Post,Bullying / Harassment,Medium,Resolved,Tier 2 Specialist,2026-03-19 04:21,2026-03-20 10:45,30.4,North America,Reported comment contains mocking language directed at a user.
+TS-1107,Text Post,Spam,Medium,Resolved,Policy Review,2026-05-01 09:09,2026-05-02 03:15,18.1,Europe,Account posting the same promotional link many times.
+TS-1108,Comment,Bullying / Harassment,Low,Resolved,Tier 2 Specialist,2026-05-10 04:21,2026-05-12 22:21,66.0,North America,Reporter asks for help with persistent unkind direct messages.
+TS-1109,Image,Spam,Low,In Review,Policy Review,2026-02-21 23:33,,,MENA,Profile flagged for suspected bot-like posting behaviour.
+TS-1110,Video,Animal Harm,High,In Review,Tier 1 Moderation,2026-05-15 04:21,,,Europe,Comment jokes about mistreating a pet; needs context review.
+TS-1111,Comment,Spam,Low,Resolved,Policy Review,2026-04-03 04:21,2026-04-05 02:03,45.7,LATAM,Account posting the same promotional link many times.
+TS-1112,Text Post,Animal Harm,Low,Resolved,Tier 1 Moderation,2026-04-25 11:33,2026-04-27 12:45,49.2,APAC,Reporter asks whether a pet-care clip breaks animal guidelines.
+TS-1113,Video,Bullying / Harassment,Medium,In Review,Policy Review,2025-12-25 16:21,,,North America,Reporter asks for help with persistent unkind direct messages.
+TS-1114,Live Stream,Hate Speech,High,Resolved,Tier 2 Specialist,2026-05-05 18:45,2026-05-06 20:27,25.7,Europe,Post flagged by automated filter for potentially exclusionary language.
+TS-1115,Comment,Hate Speech,High,Open,Tier 2 Specialist,2026-02-21 11:33,,,North America,Comment flagged for a borderline term; needs context review.
+TS-1116,Video,Misinformation,Medium,Open,Tier 2 Specialist,2025-12-31 13:57,,,North America,Post shares an unverified claim about a public event.
+TS-1117,Text Post,Animal Harm,Low,Resolved,Tier 2 Specialist,2026-05-06 09:09,2026-05-09 05:15,68.1,North America,Post flagged for a policy check on animal welfare guidelines.
+TS-1118,Text Post,Spam,Low,In Review,Policy Review,2026-05-08 16:21,,,LATAM,User reports repetitive advertising messages in their inbox.
+TS-1119,Image,Hate Speech,Medium,Open,Tier 2 Specialist,2026-04-25 06:45,,,North America,Reported phrase appears to demean a community; needs policy check.
+TS-1120,Comment,Spam,Medium,Open,Tier 1 Moderation,2026-03-04 11:33,,,North America,Automated filter flagged bulk identical comments.
+TS-1121,Live Stream,Hate Speech,Medium,In Review,Tier 2 Specialist,2026-04-14 04:21,,,Europe,Comment flagged for a borderline term; needs context review.
+TS-1122,Direct Message,Spam,Low,In Review,Tier 1 Moderation,2026-04-29 11:33,,,North America,Profile flagged for suspected bot-like posting behaviour.
+TS-1123,Comment,Bullying / Harassment,Medium,In Review,Tier 2 Specialist,2025-12-27 11:33,,,APAC,Reported comment contains mocking language directed at a user.
+TS-1124,Live Stream,Self-Harm,High,Escalated,Safety Escalations,2026-05-09 16:21,,,Africa,Post flagged for language suggesting the user is struggling emotionally.
+TS-1125,Text Post,Misinformation,Medium,Resolved,Tier 1 Moderation,2026-04-25 23:33,2026-04-26 19:51,20.3,Europe,User flags a post for spreading a misleading statistic.
+TS-1126,Image,Child Safety,High,Open,Tier 2 Specialist,2026-04-26 11:33,,,MENA,Content flagged for a routine minor-safety policy review.
+TS-1127,Live Stream,Hate Speech,High,Resolved,Tier 2 Specialist,2026-04-26 01:57,2026-04-27 08:03,30.1,Europe,Content flagged for review under hate speech policy keywords.
+TS-1128,Comment,Misinformation,High,Resolved,Tier 1 Moderation,2026-03-30 06:45,2026-03-30 10:39,3.9,MENA,Reporter questions an out-of-context quote in a viral post.
+TS-1129,Image,Misinformation,Low,Open,Tier 2 Specialist,2026-04-11 18:45,,,Europe,Reporter questions an out-of-context quote in a viral post.
+TS-1130,Image,Animal Harm,Medium,Escalated,Safety Escalations,2026-04-08 21:09,,,LATAM,Reporter asks whether a pet-care clip breaks animal guidelines.
+TS-1131,Text Post,Misinformation,Medium,In Review,Tier 2 Specialist,2026-03-02 04:21,,,LATAM,Post shares an unverified claim about a public event.
+TS-1132,Text Post,Hate Speech,High,Resolved,Tier 2 Specialist,2026-04-18 23:33,2026-04-19 06:09,6.6,North America,Content flagged for review under hate speech policy keywords.
+TS-1133,Text Post,Spam,Medium,In Review,Tier 2 Specialist,2026-04-30 23:33,,,APAC,User reports repetitive advertising messages in their inbox.
+TS-1134,Text Post,Bullying / Harassment,Medium,Open,Tier 2 Specialist,2026-01-06 11:33,,,North America,User reports repeated unwanted negative comments from another account.
+TS-1135,Comment,Misinformation,High,In Review,Tier 2 Specialist,2026-04-26 21:09,,,North America,User flags a post for spreading a misleading statistic.
+TS-1136,Image,Misinformation,High,Open,Policy Review,2026-04-20 06:45,,,APAC,User flags a post for spreading a misleading statistic.
+TS-1137,Image,Hate Speech,High,Escalated,Safety Escalations,2026-04-05 13:57,,,Europe,Post flagged by automated filter for potentially exclusionary language.
+TS-1138,Image,Bullying / Harassment,Low,Open,Tier 1 Moderation,2025-12-20 06:45,,,Europe,Reported comment contains mocking language directed at a user.
+TS-1139,Comment,Spam,High,Open,Policy Review,2026-03-22 21:09,,,Europe,Automated filter flagged bulk identical comments.
+TS-1140,Video,Self-Harm,Medium,Resolved,Tier 2 Specialist,2026-04-30 04:21,2026-05-01 05:03,24.7,North America,Comment indicates the user is going through a hard time.
+TS-1141,Text Post,Spam,Low,Resolved,Policy Review,2026-03-01 16:21,2026-03-03 15:33,47.2,LATAM,Profile flagged for suspected bot-like posting behaviour.
+TS-1142,Direct Message,Misinformation,Medium,Open,Policy Review,2025-12-21 11:33,,,Africa,Reported content links to a low-credibility source.
+TS-1143,Image,Spam,Low,In Review,Policy Review,2026-05-12 16:21,,,North America,User reports repetitive advertising messages in their inbox.
+TS-1144,Text Post,Spam,Medium,Resolved,Tier 2 Specialist,2025-12-16 01:57,2025-12-17 17:51,39.9,Europe,Account posting the same promotional link many times.
+TS-1145,Video,Child Safety,Medium,In Review,Tier 2 Specialist,2025-12-09 16:21,,,Europe,Account flagged for an unverified age on the profile.
+TS-1146,Image,Spam,High,Resolved,Tier 1 Moderation,2026-04-25 23:33,2026-04-26 11:39,12.1,Europe,Automated filter flagged bulk identical comments.
+TS-1147,Live Stream,Bullying / Harassment,High,Escalated,Legal & Compliance,2026-03-22 09:09,,,Europe,Reporter asks for help with persistent unkind direct messages.
+TS-1148,Image,Spam,Low,Escalated,Safety Escalations,2026-03-10 23:33,,,MENA,Account mass-tagging users in unrelated promotional posts.
+TS-1149,Image,Self-Harm,High,Open,Tier 2 Specialist,2026-04-08 23:33,,,Europe,User expresses sadness and may need supportive resources.
+TS-1150,Text Post,Spam,Medium,Open,Tier 2 Specialist,2026-05-08 11:33,,,Europe,User reports repetitive advertising messages in their inbox.
+TS-1151,Image,Spam,Low,In Review,Tier 2 Specialist,2026-05-12 23:33,,,North America,User reports repetitive advertising messages in their inbox.
+TS-1152,Direct Message,Misinformation,Low,In Review,Tier 2 Specialist,2025-12-15 21:09,,,APAC,Post shares an unverified claim about a public event.
+TS-1153,Comment,Bullying / Harassment,Medium,Escalated,Safety Escalations,2026-05-03 06:45,,,Europe,Account flagged for sending repetitive teasing messages.
+TS-1154,Direct Message,Animal Harm,Medium,Open,Policy Review,2025-12-15 04:21,,,Europe,Post flagged for a policy check on animal welfare guidelines.
+TS-1155,Image,Bullying / Harassment,Low,Resolved,Tier 2 Specialist,2026-04-24 18:45,2026-04-30 07:03,132.3,APAC,Reporter asks for help with persistent unkind direct messages.
+TS-1156,Video,Misinformation,Medium,Escalated,Safety Escalations,2026-03-28 13:57,,,North America,Reporter questions an out-of-context quote in a viral post.
+TS-1157,Text Post,Misinformation,High,In Review,Tier 2 Specialist,2026-05-07 06:45,,,Africa,Reporter questions an out-of-context quote in a viral post.
+TS-1158,Direct Message,Hate Speech,High,Open,Tier 2 Specialist,2026-03-02 16:21,,,Europe,Reported phrase appears to demean a community; needs policy check.
+TS-1159,Video,Hate Speech,High,Escalated,Safety Escalations,2026-04-12 06:45,,,Africa,Reported phrase appears to demean a community; needs policy check.
+TS-1160,Video,Bullying / Harassment,Medium,Escalated,Safety Escalations,2026-02-18 01:57,,,North America,Reporter asks for help with persistent unkind direct messages.
+TS-1161,Direct Message,Misinformation,Low,Open,Tier 1 Moderation,2026-05-12 16:21,,,APAC,Content flagged for a fact-check review queue.
+TS-1162,Comment,Misinformation,Medium,Resolved,Tier 1 Moderation,2026-03-16 16:21,2026-03-17 16:03,23.7,Europe,User flags a post for spreading a misleading statistic.
+TS-1163,Comment,Animal Harm,High,Escalated,Safety Escalations,2026-05-09 11:33,,,Africa,Post flagged for a policy check on animal welfare guidelines.
+TS-1164,Image,Hate Speech,High,Resolved,Tier 2 Specialist,2026-01-19 04:21,2026-01-19 12:27,8.1,LATAM,Post flagged by automated filter for potentially exclusionary language.
+TS-1165,Comment,Hate Speech,High,Resolved,Tier 2 Specialist,2026-05-11 09:09,2026-05-11 17:21,8.2,North America,Comment flagged for a borderline term; needs context review.
+TS-1166,Comment,Spam,Low,Open,Tier 1 Moderation,2026-02-05 21:09,,,North America,Account posting the same promotional link many times.
+TS-1167,Live Stream,Misinformation,Medium,Resolved,Tier 2 Specialist,2026-03-07 23:33,2026-03-11 18:39,91.1,North America,Post shares an unverified claim about a public event.
+TS-1168,Text Post,Misinformation,High,Open,Tier 1 Moderation,2026-03-16 13:57,,,LATAM,Content flagged for a fact-check review queue.
+TS-1169,Text Post,Spam,Low,Open,Tier 2 Specialist,2026-01-30 04:21,,,APAC,Account mass-tagging users in unrelated promotional posts.
+TS-1170,Direct Message,Animal Harm,Low,In Review,Tier 1 Moderation,2026-04-09 21:09,,,North America,Post flagged for a policy check on animal welfare guidelines.
+TS-1171,Image,Spam,Medium,Resolved,Policy Review,2026-04-27 13:57,2026-04-29 03:27,37.5,APAC,Account posting the same promotional link many times.
+TS-1172,Text Post,Bullying / Harassment,Medium,Resolved,Policy Review,2026-05-10 01:57,2026-05-11 21:27,43.5,Europe,Reporter asks for help with persistent unkind direct messages.
+TS-1173,Video,Bullying / Harassment,Medium,In Review,Tier 2 Specialist,2026-05-13 01:57,,,APAC,User reports repeated unwanted negative comments from another account.
+TS-1174,Live Stream,Spam,Low,Resolved,Policy Review,2026-04-25 11:33,2026-05-06 14:27,266.9,Europe,Account mass-tagging users in unrelated promotional posts.
+TS-1175,Video,Misinformation,Medium,Open,Tier 2 Specialist,2025-12-11 13:57,,,APAC,Post shares an unverified claim about a public event.
+TS-1176,Text Post,Misinformation,Low,Open,Policy Review,2026-02-08 09:09,,,MENA,Reporter questions an out-of-context quote in a viral post.
+TS-1177,Direct Message,Animal Harm,Medium,Resolved,Tier 2 Specialist,2026-05-12 18:45,2026-05-13 23:57,29.2,Europe,Reported video may show unsafe handling of a pet; needs review.
+TS-1178,Direct Message,Self-Harm,Low,Escalated,Legal & Compliance,2026-04-22 04:21,,,APAC,Automated system flagged a post for a wellbeing check-in.
+TS-1179,Comment,Bullying / Harassment,Medium,In Review,Tier 2 Specialist,2026-03-02 18:45,,,APAC,User says a group is targeting them with mean replies.
+TS-1180,Live Stream,Bullying / Harassment,High,Escalated,Safety Escalations,2026-04-27 11:33,,,MENA,User reports repeated unwanted negative comments from another account.
+TS-1181,Live Stream,Spam,Low,Resolved,Tier 1 Moderation,2026-04-01 16:21,2026-04-09 02:33,178.2,Europe,Account posting the same promotional link many times.
+TS-1182,Video,Bullying / Harassment,Low,Open,Tier 1 Moderation,2025-11-28 06:45,,,LATAM,Reported comment contains mocking language directed at a user.
+TS-1183,Comment,Spam,Low,In Review,Tier 2 Specialist,2026-04-27 11:33,,,North America,Account mass-tagging users in unrelated promotional posts.
+TS-1184,Video,Spam,Low,In Review,Policy Review,2026-05-12 13:57,,,Europe,User reports repetitive advertising messages in their inbox.
+TS-1185,Comment,Spam,Medium,Open,Tier 2 Specialist,2025-11-22 16:21,,,Europe,User reports repetitive advertising messages in their inbox.
+TS-1186,Comment,Spam,Medium,In Review,Tier 1 Moderation,2026-04-30 16:21,,,MENA,Profile flagged for suspected bot-like posting behaviour.
+TS-1187,Text Post,Hate Speech,High,Escalated,Safety Escalations,2025-12-02 16:21,,,APAC,Comment flagged for a borderline term; needs context review.
+TS-1188,Text Post,Bullying / Harassment,Low,In Review,Tier 1 Moderation,2026-03-19 06:45,,,APAC,Reported comment contains mocking language directed at a user.
+TS-1189,Text Post,Misinformation,Low,In Review,Tier 2 Specialist,2026-05-10 11:33,,,Africa,Content flagged for a fact-check review queue.
+TS-1190,Comment,Animal Harm,High,Escalated,Safety Escalations,2026-03-28 16:21,,,Europe,Post flagged for a policy check on animal welfare guidelines.
+TS-1191,Text Post,Hate Speech,High,Open,Tier 2 Specialist,2026-04-23 16:21,,,MENA,User reports a comment that may target a protected group.
+TS-1192,Direct Message,Self-Harm,High,Escalated,Safety Escalations,2026-03-18 13:57,,,Europe,Post flagged for language suggesting the user is struggling emotionally.
+TS-1193,Comment,Spam,High,In Review,Tier 1 Moderation,2026-04-14 16:21,,,North America,Account posting the same promotional link many times.
+TS-1194,Comment,Spam,High,Escalated,Safety Escalations,2026-04-30 16:21,,,MENA,Account mass-tagging users in unrelated promotional posts.
+TS-1195,Video,Misinformation,High,Escalated,Safety Escalations,2026-04-02 09:09,,,North America,Content flagged for a fact-check review queue.
+TS-1196,Direct Message,Spam,Low,Open,Tier 2 Specialist,2026-05-12 11:33,,,North America,Profile flagged for suspected bot-like posting behaviour.
+TS-1197,Comment,Child Safety,High,Escalated,Safety Escalations,2026-04-28 04:21,,,APAC,User reports a suspicious friend request pattern toward younger users.
+TS-1198,Text Post,Animal Harm,Medium,Open,Policy Review,2026-05-05 01:57,,,North America,Reported video may show unsafe handling of a pet; needs review.
+TS-1199,Direct Message,Hate Speech,High,In Review,Tier 2 Specialist,2026-04-09 23:33,,,APAC,User reports a comment that may target a protected group.
+TS-1200,Comment,Misinformation,Medium,Resolved,Tier 1 Moderation,2026-03-14 23:33,2026-03-15 12:51,13.3,Africa,Reporter questions an out-of-context quote in a viral post.
+TS-1201,Comment,Spam,High,In Review,Tier 1 Moderation,2026-04-29 16:21,,,MENA,Account posting the same promotional link many times.
+TS-1202,Direct Message,Child Safety,High,Escalated,Safety Escalations,2026-03-03 23:33,,,Europe,User reports a suspicious friend request pattern toward younger users.
+TS-1203,Image,Hate Speech,High,Resolved,Tier 2 Specialist,2026-05-03 06:45,2026-05-03 16:27,9.7,Europe,Post flagged by automated filter for potentially exclusionary language.
+TS-1204,Text Post,Bullying / Harassment,Low,Open,Tier 2 Specialist,2026-03-15 16:21,,,APAC,User reports repeated unwanted negative comments from another account.
+TS-1205,Text Post,Bullying / Harassment,Medium,Escalated,Safety Escalations,2026-04-02 13:57,,,Europe,User says a group is targeting them with mean replies.
+TS-1206,Comment,Bullying / Harassment,Low,Open,Tier 2 Specialist,2026-03-25 09:09,,,APAC,Account flagged for sending repetitive teasing messages.
+TS-1207,Text Post,Hate Speech,Medium,In Review,Tier 2 Specialist,2026-05-09 06:45,,,North America,Comment flagged for a borderline term; needs context review.
+TS-1208,Text Post,Bullying / Harassment,High,In Review,Policy Review,2026-01-25 16:21,,,Europe,Reporter asks for help with persistent unkind direct messages.
+TS-1209,Comment,Bullying / Harassment,High,In Review,Policy Review,2026-05-08 23:33,,,Africa,Reported comment contains mocking language directed at a user.
+TS-1210,Comment,Hate Speech,High,Escalated,Legal & Compliance,2026-04-25 23:33,,,APAC,Reported phrase appears to demean a community; needs policy check.
+TS-1211,Text Post,Misinformation,Medium,Open,Tier 2 Specialist,2026-02-22 06:45,,,APAC,Reported content links to a low-credibility source.
+TS-1212,Direct Message,Spam,Low,Open,Tier 2 Specialist,2026-01-10 06:45,,,North America,Account mass-tagging users in unrelated promotional posts.
+TS-1213,Direct Message,Spam,Medium,Resolved,Policy Review,2026-05-01 13:57,2026-05-02 19:15,29.3,North America,Profile flagged for suspected bot-like posting behaviour.
+TS-1214,Comment,Misinformation,Medium,Open,Tier 2 Specialist,2026-05-13 11:33,,,APAC,Content flagged for a fact-check review queue.
+TS-1215,Video,Child Safety,Medium,Escalated,Safety Escalations,2026-04-24 13:57,,,APAC,Reported profile may belong to a minor; needs age verification.
+TS-1216,Comment,Hate Speech,High,Escalated,Legal & Compliance,2026-04-05 18:45,,,APAC,Post flagged by automated filter for potentially exclusionary language.
+TS-1217,Comment,Bullying / Harassment,Medium,Open,Tier 2 Specialist,2025-11-23 23:33,,,North America,Reported comment contains mocking language directed at a user.
+TS-1218,Image,Spam,Medium,Resolved,Tier 1 Moderation,2026-04-03 04:21,2026-04-04 15:39,35.3,North America,User reports repetitive advertising messages in their inbox.
+TS-1219,Video,Bullying / Harassment,Low,Open,Tier 2 Specialist,2026-05-13 11:33,,,APAC,Reporter asks for help with persistent unkind direct messages.
+TS-1220,Comment,Misinformation,Medium,Resolved,Tier 2 Specialist,2026-05-13 04:21,2026-05-13 19:27,15.1,Europe,Reporter questions an out-of-context quote in a viral post.
