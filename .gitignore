@@ -19,3 +19,8 @@ env/
 .DS_Store
 .idea/
 .vscode/
+
+# Private application / job-search notes (kept local, not part of the repo)
+INTERVIEW.md
+CV_BULLETS.md
+APPLICATION_NOTES.md
